@@ -1,9 +1,14 @@
-.container {
-    width: 1200px;
+.container-my {
+    max-width: 1200px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 15px;
+    padding-left: 15px;
 }
 
 .birzha-header-logo {
-    margin-top: 20px;
+    margin-top: 25px;
     margin-bottom: 20px;
 }
 
